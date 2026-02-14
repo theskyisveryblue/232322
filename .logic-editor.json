@@ -1,0 +1,21 @@
+{
+    "name": "232322",
+    "type": "react",
+    "port": 5173,
+    "runCommand": "bun dev",
+    "location": "/Users/theone/Documents/GitHub/232322",
+    "routes": [
+        {
+            "path": "/",
+            "label": "Immersive Entry"
+        },
+        {
+            "path": "/gallery",
+            "label": "Pro Gallery"
+        },
+        {
+            "path": "/showcase",
+            "label": "Deep Dive"
+        }
+    ]
+}
